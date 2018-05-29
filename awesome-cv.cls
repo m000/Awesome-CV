@@ -610,6 +610,7 @@
 
 % Define an environment for cvsubentry
 \newenvironment{cvsubentries}{%
+  \vspace{\acvSectionTopSkip}
   \begin{center}
 }{%
   \end{center}
