@@ -183,6 +183,10 @@
 \newcommand*{\bodyfont}{\sourcesanspro}
 \newcommand*{\bodyfontlight}{\sourcesansprolight}
 
+\newcommand*{\starone}{\faStar\faStarO\faStarO\quad}
+\newcommand*{\startwo}{\faStar\faStar\faStarO\quad}
+\newcommand*{\starthree}{\faStar\faStar\faStar\quad}
+
 %-------------------------------------------------------------------------------
 %                Configuration for styles
 %-------------------------------------------------------------------------------
