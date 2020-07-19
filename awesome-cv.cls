@@ -571,7 +571,7 @@
   \vspace{\acvSectionTopSkip}
   \sectionstyle{#1}
   \phantomsection
-  \color{gray}\vhrulefill{0.9pt}
+  \color{text}\vhrulefill{0.9pt}
 }
 
 % Define a subsection for CV
